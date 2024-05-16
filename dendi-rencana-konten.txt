@@ -1,6 +1,6 @@
-Rencan Konten Dendi
+Rencana Konten Dendi
 
-  -javascript
+  - javascript
   - PHP Native
-  Interview
-  Vlogs
+  - Interview
+  - Vlogs
